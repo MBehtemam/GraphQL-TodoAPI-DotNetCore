@@ -1,0 +1,14 @@
+D:\Try\Graphql\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.deps.json
+D:\Try\Graphql\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.runtimeconfig.json
+D:\Try\Graphql\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.runtimeconfig.dev.json
+D:\Try\Graphql\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.dll
+D:\Try\Graphql\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.pdb
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.csprojAssemblyReference.cache
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.csproj.CoreCompileInputs.cache
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorAssemblyInfo.cache
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorAssemblyInfo.cs
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.AssemblyInfoInputs.cache
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.AssemblyInfo.cs
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorTargetAssemblyInfo.cache
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.dll
+D:\Try\Graphql\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.pdb
